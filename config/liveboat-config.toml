@@ -9,7 +9,7 @@ site_path = "/ensias-rss-news/"
 title = "ENSIAS RSS News"
 # Update site url if you're planning on using aggregated OPML
 # channel Liveboat exposes.
-site_url = "https://konrad.website/liveboat-github-runner/"
+site_url = "https://abibassma.github.io/ensias-rss-news/"
 # Maximum number of days for which Liveboat will include
 # articles for.
 time_threshold = 40

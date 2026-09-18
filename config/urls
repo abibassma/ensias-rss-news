@@ -1,4 +1,70 @@
 "query:Club News:tags # \"club\""
+"query:Université Mohammed V News:tags # \"um5\""
+
+# === Multimedia clubs ===
 
 # ENSIASMAG
 https://rss-bridge.org/bridge01/?action=display&context=Username&u=ensiasmag&bridge=InstagramBridge&format=Atom "~EnsiasMag" club
+
+# ENSIASRADIO
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=ensiasradiohq&bridge=InstagramBridge&format=Atom "~Ensias RADIO" club
+
+# ENSIAS Radio
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=ensiastv&bridge=InstagramBridge&format=Atom "~ENSIAS TV" club
+
+# ==================
+
+# CJE ENSIAS
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=cje.voice&bridge=InstagramBridge&format=Atom "~Club Japonais ENSIAS" club
+
+# Neurodynamics
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=ensias_neurodynamics_club&bridge=InstagramBridge&format=Atom "~NeuroDynamics | IA & Robotics Club" club
+
+# ADEI ENSIAS
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=adei.ensias&bridge=InstagramBridge&format=Atom "~ADEI ENSIAS" club
+
+# House Of Arts
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=house.of.arts.ensias&bridge=InstagramBridge&format=Atom "~House Of Arts" club
+
+# FORUM GENI ENSIAS
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=forum_geni_ensias&bridge=InstagramBridge&format=Atom "~Forum GENI Entreprises ENSIAS" club
+
+# FORUM GENI
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=forum_geni_entreprises&bridge=InstagramBridge&format=Atom "~Forum GENI Entreprises" club
+
+# JCMP ENSIAS
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=jcmp_ensias&bridge=InstagramBridge&format=Atom "~Jeune Communauté Marocaine Publico-Eco Club JCMP ENSIAS" club
+
+# JEE
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=junior.entreprise.ensias&bridge=InstagramBridge&format=Html "~Junior Entreprise ENSIAS" club
+
+# club sportif
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=clubsportif_ensias&bridge=InstagramBridge&format=Atom "~Club-Sportif Ensias" club
+
+# IT club
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=ensias_it_club&bridge=InstagramBridge&format=Atom "~ENSIAS IT CLUB" club
+
+# INSEC club
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=insec_ensias&bridge=InstagramBridge&format=Atom "~INSEC ENSIAS" club
+
+# ENSIAS Bridge
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=ensias_bridge&bridge=InstagramBridge&format=Atom "~Ensias Bridge" club
+
+# ENSIAS Club Quran
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=clubquran_ensias&bridge=InstagramBridge&format=Atom "~Club Quran ENSIAS" club
+
+# Ultras Red Hacker
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=ultrasredhackers&bridge=InstagramBridge&format=Atom "~ULTRAS RED HACKERS" club
+
+# CINDH ENSIAS
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=cindh_ensias&bridge=InstagramBridge&format=Atom "~CINDH ENSIAS" club
+
+# Dar Lkhir
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=darlkhir.cindh&bridge=InstagramBridge&format=Atom "~Dar Lkhir - CINDH ENSIAS" club
+
+
+# ENSIAS official account
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=ensias.official&bridge=InstagramBridge&format=Atom "~ENSIAS official account" um5
+
+# Vie Étudiante UM5 Rabat
+https://rss-bridge.org/bridge01/?action=display&context=Username&u=vie_etudiante_um5&bridge=InstagramBridge&format=Atom "~Vie Étudiante UM5 Rabat" um5
