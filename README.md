@@ -4,9 +4,6 @@
 ENSIAS RSS News
 </h2>
 <br/>
-<h4  align="center"> Liveboat Github Runner</h4>
-
-<br/>
 A static website aggregator of RSS feeds related to ENSIAS news.
 
 This is based on the template repository for <a href="https://github.com/exaroth/liveboat">Liveboat</a> feed generator, used to configure and deploy ENSIAS feed websites on Github Pages.
