@@ -3,8 +3,6 @@
 <br/>
 ENSIAS RSS News
 </h2>
-<br/>
-<h4  align="center"> Liveboat Github Runner</h4>
 
 <br/>
 A static website aggregator of RSS feeds related to ENSIAS news.
