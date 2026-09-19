@@ -7,6 +7,8 @@ ENSIAS RSS News
 <br/>
 A static website aggregator of RSS feeds related to ENSIAS news.
 
+The RSS feeds on this website are based on Atom from an instance of <a href="https://rss-bridge.org/bridge01/">RSS Bridge</a>.
+
 This is based on the template repository for <a href="https://github.com/exaroth/liveboat">Liveboat</a> feed generator, used to configure and deploy ENSIAS feed websites on Github Pages.
 
 ## License
