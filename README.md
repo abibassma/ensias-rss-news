@@ -5,7 +5,9 @@ ENSIAS RSS News
 </h2>
 
 <br/>
-A static website aggregator of RSS feeds related to ENSIAS news.
+Source code of ENSIAS RSS News, a static website aggregator of RSS feeds related to ENSIAS news.
+
+Access the website on <a href="https://abibassma.github.io/ensias-rss-news/">abibassma.github.io/ensias-rss-news/</a>
 
 The RSS feeds on this website are based on Atom from an instance of <a href="https://rss-bridge.org/bridge01/">RSS Bridge</a>.
 
